@@ -1,7 +1,0 @@
-txn_type_id,txn_type
-1,NEFT
-2,NEFT
-3,Withdrawal
-4,UPI
-5,Transfer
-6,Transfer
